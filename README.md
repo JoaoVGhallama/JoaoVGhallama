@@ -2,13 +2,6 @@
 <h1 align="center">Olá 👋, me chamo João Vitor Guerreiro Hallama!</h1>
 <h3 align="center">sou um estudante de tecnologia apaixonado pelo desenvolvimento Full-Stack ☕</h3>
 
-- 🔭 Atualmente estou trabalhando no [Java Password Generator](https://github.com/JoaoVGhallama/Java_Password-Generator)
-
-- 🌱 estou estudando **Java, Spring**
-
-- 📫 entre em contato! **joao.vghallama@gmail.com**
-
-
 <p align="left">
 </p>
 
