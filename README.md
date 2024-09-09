@@ -1,6 +1,6 @@
 
 <h1 align="center">Olá 👋, me chamo João Vitor Guerreiro Hallama!</h1>
-<h3 align="center">sou um estudante de tecnologia apaixonado pelo desenvolvimento Full-Stack ☕</h3>
+<h3 align="center">sou um estudante de tecnologia apaixonado pelo desenvolvimento Front-end ☕</h3>
 
 <p align="left">
 </p>
