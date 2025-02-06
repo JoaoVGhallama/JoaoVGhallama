@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">sou um estudante de tecnologia apaixonado por Design e desenvolvimento Front-end 🥸</h4>
+<h4 align="center">Front-end Developer</h4>
 
 ###
 
