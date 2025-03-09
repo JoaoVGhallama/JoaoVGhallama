@@ -1,4 +1,4 @@
-<h2 align="center">Opa, me chamo João Hallama 👋</h2>
+<h2 align="center">yo, i`m João Hallama! 👋</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center"></h4>
+<h4 align="center">currently Learning C</h4>
 
 ###
 
